@@ -33,5 +33,6 @@ The goal of this project is to create a dynamic and informative dashboard that s
 - Update the SQL database with new data (e.g., adding the 31st week's data).
 - Ensure that the dashboard reflects this new data accurately and updates the visualizations and reports accordingly.
 
-## Project Guidance: https://github.com/rishabhnmishra/Credit_Card_Financial_Dashboard/tree/main
+## Project Guidance: 
+https://github.com/rishabhnmishra/Credit_Card_Financial_Dashboard/tree/main
 With this comprehensive dashboard, stakeholders can gain valuable insights into credit card operations, monitor performance, and make data-driven decisions effectively.
